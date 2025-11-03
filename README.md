@@ -21,7 +21,9 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Backend Developer;Front End Developer;AI Developer" alt="Typing SVG" /></p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=2F72F7&center=true&width=435&lines=Full-Stack+Developer;Backend+Developer)](https://git.io/typing-svg)
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=2F72F7&center=true&width=435&lines=Full-Stack+Developer;Backend+Developer" alt="Typing SVG" /></a>
+</p>
 
 I'm **Abdelhaq** , I'm a Moroccan Web Developer.
 
@@ -37,6 +39,7 @@ I’m a **Web Developer** passionate about crafting fast, accessible, and human-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdelhaqelamraoui&show_icons=true&theme=transparent&hide_border=true&hide_title=true" alt="GitHub stats" />
 </p>
+
 
 
 
